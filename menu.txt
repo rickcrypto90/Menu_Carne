@@ -1,4 +1,4 @@
-                   DevelMeat
+            DevelMeat
 
 
 
@@ -21,6 +21,14 @@
 ----------------------------------------⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
          Menù Carne
 
+Dolci
+
+-Tiramisù
+-Mousse ai frutti rossi
+-Torta vegana al cioccolato
+-Cheesecake 
+-Gelati al tè verde e gli infusi
+
 
 Drinks
 
@@ -30,6 +38,7 @@ Drinks
 -Sprite
 -Acqua†
 
+
 Piatti Wow
 - Pallone
 - Sternocleidomastoideo
@@ -38,3 +47,18 @@ Piatti Wow
 Piatti Desueti
 - Mandorle tonnate
 - Casse al forno
+
+Contorni 
+
+Gateau di patate
+patate al forno
+cavolfiori gratinati
+carciofi alla romana
+=======
+
+Secondi piatti:
+-Tagliata di manzo
+-Roast Beef
+-Filetto al pepe verde
+
+>>>>>>> fb3d941d842835f208ff4c064188ff305b8f4448
