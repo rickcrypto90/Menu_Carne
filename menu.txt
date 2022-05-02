@@ -1,5 +1,4 @@
-
-             DevelMeat
+            DevelMeat
 
 
 
@@ -39,4 +38,9 @@ patate al forno
 cavolfiori gratinati
 carciofi alla romana
 =======
-     
+
+Secondi piatti:
+-Tagliata di manzo
+-Roast Beef
+-Filetto al pepe verde
+
