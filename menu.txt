@@ -43,7 +43,10 @@ Piatti Wow
 - Pallone
 - Sternocleidomastoideo
 - Pantalone
-=======
+
+Piatti Desueti
+- Mandorle tonnate
+- Casse al forno
 
 Contorni 
 
@@ -58,3 +61,4 @@ Secondi piatti:
 -Roast Beef
 -Filetto al pepe verde
 
+>>>>>>> fb3d941d842835f208ff4c064188ff305b8f4448
